@@ -11,7 +11,7 @@
 ---
 ##🔹 Example Video: Real-Time Traffic Monitoring and ANPR in Action
 
-https://github.com/user-attachments/assets/ada08116-655c-4d48-91a4-86b89e54b860
+https://github.com/user-attachments/assets/3552c06d-e2f3-4a8a-a581-89b8eeabfc65
 ---
 
 ## 📌 **About**
